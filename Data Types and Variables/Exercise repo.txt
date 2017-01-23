@@ -1,11 +1,10 @@
 Exercise repo
-<<<<<<< HEAD
+HEAD
 Try conflict...
 Main Change
-ññññññ
-=======
+Ã±Ã±Ã±Ã±Ã±Ã±
 new way
 new way...
 Try conflict...
 
->>>>>>> b353c8adb84132641b47316a6fa1bfa1f7c620c9
+
