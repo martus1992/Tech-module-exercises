@@ -2,8 +2,17 @@ Exercise repo
 HEAD
 Try conflict...
 Main Change
+<<<<<<< HEAD
 ññññññ
 new way
 new way...
 Try conflict...
 GiT BaSH	
+=======
+Ã±Ã±Ã±Ã±Ã±Ã±
+new way
+new way...
+Try conflict...
+
+
+>>>>>>> 18c692778d02a5ef4fe4072a83cb653d99dd9a2d
